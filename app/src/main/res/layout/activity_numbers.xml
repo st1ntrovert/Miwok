@@ -22,7 +22,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    android:id="@+id/numbersLL"
+    android:id="@+id/rootView"
     tools:context="com.example.android.miwok.NumbersActivity">
 
 </LinearLayout>
